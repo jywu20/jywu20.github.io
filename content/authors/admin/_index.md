@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jinyuan Wu (吴晋渊)
+title: Jinyuan Wu
 
 # Full name (for SEO)
 first_name: Jinyuan
@@ -45,19 +45,19 @@ interests:
   - GW-BSE Methodology
 
 education:
-  - area: PhD Material Science
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. in Material Science
+    institution: Yale University
+    date_start: 2022-08-01
+    date_end: 
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor in Physics
+    institution: Fudan University
+    date_start: 2018-09-01
+    date_end: 2022-06-31
     summary: |
       GPA: 3.8/4.0
 
@@ -176,4 +176,11 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Jinyuan Wu (吴晋渊). I am a third year PhD student in the [Department of Material Science, Yale University](https://engineering.yale.edu/academic-study/departments/materials-science).
+I am fortunately to be advised by [Prof. Diana Y. Qiu](https://qiugroup.yale.edu/).
+
+My research interest interests focus on computational condensed matter physics a first-principles many-body perturbative perspective,
+namely GW-BSE methodology on top of DFT.
+I also work with non-equilibrium simulations using time-dependent GW approaches,
+as well as machine learning acceleration of these techniques.
+
