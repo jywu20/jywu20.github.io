@@ -32,11 +32,9 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My recent research projects'
       subtitle: ''
       text: |-
-        Here are some of my recent research projects.
-
         - What do trions look like in time-resolved ARPES?
         - SVD compression of TD-aGW.
     design:
