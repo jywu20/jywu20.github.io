@@ -47,8 +47,9 @@ interests:
 education:
   - area: Ph.D. in Material Science
     institution: Yale University
-    date_start: 2022
-    date_end: present
+    #date_start: 2022
+    #date_end: present
+    year: 2022-present
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
