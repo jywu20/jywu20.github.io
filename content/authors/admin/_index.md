@@ -47,7 +47,7 @@ interests:
 education:
   - area: Ph.D. in Material Science
     institution: Yale University
-    date_start: 2022-08-01
+    date_start: 2022
     date_end: present
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
@@ -56,8 +56,8 @@ education:
       url: 'https://example.com'
   - area: Bachelor in Physics
     institution: Fudan University
-    date_start: 2018-09-01
-    date_end: 2022-06-31
+    date_start: 2018
+    date_end: 2022
     summary: |
       GPA: 3.8/4.0
 
