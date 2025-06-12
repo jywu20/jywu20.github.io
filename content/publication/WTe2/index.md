@@ -1,12 +1,16 @@
 ---
-title: "An example preprint / working paper"
+title: "Quasiparticle and excitonic properties of monolayer   within many-body perturbation theory"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+- Bowen Hou
+- Wenxin Li
+- Yu He
+- Diana Y. Qiu
+date: "2024-08-15"
+doi: "https://doi.org/10.1103/PhysRevB.110.075133"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,13 +21,17 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In the monolayer limit, 1T' WTe2 is a two-dimensional topological insulator exhibiting the quantum spin Hall effect and is believed to host an excitonic insulator ground state. However, theoretical analysis of this system is complicated by the difficulty of obtaining descriptions of the single-quasiparticle band structure consistent with experimental measurement within conventional first-principles techniques. Previous band-structure calculations using the Perdew-Burke-Ernzerhof functional and a one-shot GW approximation result in a semimetallic band structure, while calculations with hybrid functionals appear to open a band gap. Here, we demonstrate that self-consistently updating wave functions within a static GW approximation (static COHSEX) can reproduce the insulating band structure experimentally observed by angle-resolved photoemission spectroscopy without resorting to mechanisms beyond the quasiparticle picture. Finally, a finite-momentum Bethe-Salpeter equation calculation on top of self-consistent GW results in negative exciton excitation energies, leaving open the possibility of excitonic instability in 1T' monolayer WTe2.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+- 2D systems
+- Transition metal dichalcogenides
+- Bethe-Salpeter equation
+- Density functional calculations
+- GW method
 
 featured: true
 
