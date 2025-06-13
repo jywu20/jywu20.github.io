@@ -29,8 +29,8 @@ doi: ''
 publication_types: ['preprint']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+#publication: In *Hugo Blox Builder Conference*
+#publication_short: In *ICW*
 
 abstract: Many-body electron-hole interactions are essential for understanding non-linear optical processes and ultrafast spectroscopy of materials. Recent first principles approaches based on nonequilibrium Green's function formalisms, such as the time-dependent adiabatic GW (TD-aGW) approach, can predict the nonequilibrium dynamics of excited states including electron-hole interactions. However, the high dimensionality of the electron-hole kernel poses significant computational challenges for scalability. Here, we develop a data-driven low-rank approximation for the electron-hole kernel, leveraging localized excitonic effects in the Hilbert space of crystalline systems. Through singular value decomposition (SVD) analysis, we show that the subspace of non-zero singular values, containing the key information of the electron-hole kernel, retains a small size even as the k-grid grows, ensuring computational feasibility with extremely dense k-grids for converged calculations. Utilizing this low-rank property, we achieve at least 95% compression of the kernel and an order-of-magnitude speedup of TD-aGW calculations. Our method, rooted in physical interpretability, outperforms existing machine learning approaches by avoiding intensive training processes and eliminating time-accumulated errors, providing a general framework for high-throughput, nonequilibrium simulation of light-driven dynamics in materials.
 

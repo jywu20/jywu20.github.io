@@ -18,7 +18,7 @@ doi: "https://doi.org/10.1103/PhysRevB.110.075133"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Physical Review B"
 publication_short: ""
 
 abstract: In the monolayer limit, 1T' WTe2 is a two-dimensional topological insulator exhibiting the quantum spin Hall effect and is believed to host an excitonic insulator ground state. However, theoretical analysis of this system is complicated by the difficulty of obtaining descriptions of the single-quasiparticle band structure consistent with experimental measurement within conventional first-principles techniques. Previous band-structure calculations using the Perdew-Burke-Ernzerhof functional and a one-shot GW approximation result in a semimetallic band structure, while calculations with hybrid functionals appear to open a band gap. Here, we demonstrate that self-consistently updating wave functions within a static GW approximation (static COHSEX) can reproduce the insulating band structure experimentally observed by angle-resolved photoemission spectroscopy without resorting to mechanisms beyond the quasiparticle picture. Finally, a finite-momentum Bethe-Salpeter equation calculation on top of self-consistent GW results in negative exciton excitation energies, leaving open the possibility of excitonic instability in 1T' monolayer WTe2.
