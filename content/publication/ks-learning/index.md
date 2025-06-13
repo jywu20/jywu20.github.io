@@ -1,16 +1,17 @@
 ---
-title: "An example journal article"
+title: "Unsupervised representation learning of Kohn–Sham states and consequences for downstream predictions of many-body effects"
 authors:
+- Bowen Hou
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Diana Y. Qiu
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
+date: "2024-11-02"
+doi: "https://doi.org/10.1038/s41467-024-53748-7"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +19,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Nature Communication"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Representation learning for the electronic structure problem is a major challenge of machine learning in computational condensed matter and materials physics. Within quantum mechanical first principles approaches, density functional theory (DFT) is the preeminent tool for understanding electronic structure, and the high-dimensional DFT wavefunctions serve as building blocks for downstream calculations of correlated many-body excitations and related physical observables. Here, we use variational autoencoders (VAE) for the unsupervised learning of DFT wavefunctions and show that these wavefunctions lie in a low-dimensional manifold within latent space. Our model autonomously determines the optimal representation of the electronic structure, avoiding limitations due to manual feature engineering. To demonstrate the utility of the latent space representation of the DFT wavefunction, we use it for the supervised training of neural networks (NN) for downstream prediction of quasiparticle bandstructures within the GW formalism. The GW prediction achieves a low error of 0.11 eV for a combined test set of two-dimensional metals and semiconductors, suggesting that the latent space representation captures key physical information from the original data. Finally, we explore the generative ability and interpretability of the VAE representation.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
