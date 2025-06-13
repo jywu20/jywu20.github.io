@@ -51,10 +51,10 @@ education:
     #date_end: present
     year: 2022-present
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      Working on first-principles GW-BSE methodology. Supervised by [Prof. Diana Y. Qiu](https://engineering.yale.edu/research-and-faculty/faculty-directory/diana-qiu)
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
   - area: BSc Physics
     institution: Fudan University
     year: 2018-2022
@@ -62,9 +62,11 @@ education:
       GPA: 3.8/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Classical Mechanics and Quantum Mechanics
+      - Quantum Field Theory
+      - Electrodynamics
+      - Quantum Optics
+      - Solid State Physics and Solid State Physics Theory
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
