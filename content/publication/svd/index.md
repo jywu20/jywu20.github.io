@@ -17,11 +17,11 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2025-02-08'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-02-08'
+#publishDate: '2025-02-08'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -63,7 +63,7 @@ url_pdf: 'https://arxiv.org/pdf/2502.05635'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Fig. 3(a)'
   focal_point: ''
   preview_only: false
 
@@ -83,6 +83,7 @@ projects:
 slides: example
 ---
 
+<!--
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
@@ -92,3 +93,4 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+-->
