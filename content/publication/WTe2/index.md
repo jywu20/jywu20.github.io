@@ -38,7 +38,7 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-#url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://journals.aps.org/prb/pdf/10.1103/PhysRevB.110.075133
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
 #url_poster: '#'
