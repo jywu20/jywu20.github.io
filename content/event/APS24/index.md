@@ -7,7 +7,7 @@ event_url: https://meetings.aps.org/Meeting/MAR24/Session/K59.8
 location: Minneapolis Convention Center
 address:
   street: 1301 2nd Ave S
-  city: Minneapolis 
+  city: Minneapolis
   region: MN
   postcode: '55404'
   country: United States
