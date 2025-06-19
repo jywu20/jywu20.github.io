@@ -1,15 +1,15 @@
 ---
 title: Many-body effects on the ground-state properties of monolayer 1T' WTe2
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: APS March Meeting 2024
+event_url: https://meetings.aps.org/Meeting/MAR24/Session/K59.8
 
-location: Hugo Blox Builder HQ
+location: Minneapolis Convention Center
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 1301 2nd Ave S
+  city: Minneapolis
+  region: MN
+  postcode: '55404'
   country: United States
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
