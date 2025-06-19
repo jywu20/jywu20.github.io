@@ -1,26 +1,27 @@
 ---
-title: Many-body effects on the ground-state properties of monolayer 1T' WTe2
+title: Excitonic self-driven Floquet effects in ultrafast pump-probe and magneto-optical spectroscopy
 
-event: APS March Meeting 2024
-event_url: https://meetings.aps.org/Meeting/MAR24/Session/K59.8
 
-location: Minneapolis Convention Center
+event: APS March Meeting 2025
+event_url: https://summit.aps.org/events/MAR-G47/7
+
+location: Anaheim Convention Center
 address:
-  street: 1301 2nd Ave S
-  city: Minneapolis
-  region: MN
-  postcode: '55404'
+  street: 800 West Katella Avenue
+  city: Anaheim
+  region: CA
+  postcode: '02802'
   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+#summary: An example talk using Hugo Blox Builder's Markdown slides feature.
 # Note: Do not use quotation marks around this paragraph when having the prime symbol in it,
 # or otherwise strange errors like "key not found in line 14" appears.
-abstract: In the monolayer limit, 1T' WTe2 is a two-dimensional (2D) topological insulator exhibiting the quantum spin Hall effect and is believed to host an exciton insulator ground state. However, theoretical analysis is complicated by the difficulty of obtaining consistent descriptions of the single-quasiparticle band structure within conventional first-principles techniques. Previous band structure calculations using the Perdew-Burke-Ernzerhof (PBE) functional and a one-shot GW approximation result in a semimetallic band structure, while calculations with hybrid functionals appear to open a bandgap. Here, we demonstrate that self-consistently updating wavefunctions within a static GW approximation (static COHSEX) can reproduce the band structure experimentally observed by angle-resolved photoemission spectroscopy (ARPES) without resorting to mechanisms beyond the quasiparticle picture. Finally, Bethe–Salpeter equation (BSE) calculation on top of self-consistent GW hint at previously observed negative exciton frequencies, leaving open the possibility of exciton condensation in 1T' monolayer WTe2.
+abstract: Periodic driving renormalizes materials’ electronic structure into Floquet quasi-stationary states observable in optical and electron photoemission spectra. In excitonic materials, optical pumping creates a large population of coherent excitons, which not only modifies the material's optical properties but also creates a non-equilibrium electrion self-energy. This self-energy can acts as a quasi-periodic driving field persisting even after the initial pump pulse is gone, leading to a self-driven exciton Floquet effect. This effect manifests in a camel backing in the electronic bandstructure, which is predicted to be visible in time-resolved angle-resolved photoemission spectroscopy (TR-ARPES). In this work, we propose an alternative probe of the self-driven exciton Floquet effect through ultrafast transient absorption and magneto-optical spectroscopy. We utilize the first-principles time-dependent adiabatic GW (TD-aGW) approach to calculate the time-resolved transient absorption spectrum of monolayer MoS2. Importantly, we notice that the exciton self-driven Floquet effects renormalize the magnetic response of excitons, suggesting a novel mean to characterize non-equilibrium coherent effects in pump-probe spectroscopy.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-03-05T16:48:00Z'
-date_end: '2024-03-05T17:00:00Z'
+date: '2025-03-18T13:30:00Z'
+date_end: '2025-03-18T13:42:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
