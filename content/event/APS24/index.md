@@ -64,4 +64,4 @@ projects:
   - example
 ---
 
-See {{< ref "publication/wte2/">}}
+See [here]({{< ref "publication/wte2/">}})
