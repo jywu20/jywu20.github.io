@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: Many-body effects on the ground-state properties of monolayer 1T' WTe2
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
