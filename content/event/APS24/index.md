@@ -1,5 +1,5 @@
 ---
-title: 
+title: Many-body effects on the ground-state properties of monolayer 1T' WTe2
 
 event: APS March Meeting 2024
 event_url: https://meetings.aps.org/Meeting/MAR24/Session/K59.8
