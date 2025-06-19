@@ -64,4 +64,4 @@ projects:
   - example
 ---
 
-See {{< "publication/wte2/">}}
+See {{< ref "publication/wte2/">}}
